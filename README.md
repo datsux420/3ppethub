@@ -1,10 +1,10 @@
 # 3ppethub
-3ppethub user
-user: bins
-password: q1w2e3r4
+3ppethub user \n
+user: bins \n
+password: q1w2e3r4 \n
 
 inventory
-user :        password :
-admin         admin
-special       special
+user :        password : \n
+admin         admin \n
+special       special \n
 user          user
